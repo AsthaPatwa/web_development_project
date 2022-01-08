@@ -1,0 +1,221 @@
+.home{
+  background-image: url("../assest/bg.jpeg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.name{
+  background-image: url("../assest/Lorem_IPSUM.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+input::placeholder{
+  color: #FFFFFF;
+  font-size: 13px;
+  left: 9px;
+}
+.First{
+  display: relative;
+}
+.img1{
+  background-image: url("../assest/Group55.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.img2{
+  background-image: url("../assest/Rectangle_35.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.twitter{
+ background-image: url("../assest/Twitter_Squared.png");
+ background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.fb{
+  background-image: url("../assest/Facebook_logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.insta{
+  background-image: url("../assest/Instagram_logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.edit Button:hover, .join Button:hover, .nav Button:hover{
+  color: red;
+  background-color: bisque;
+  text-decoration: underline;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.box{
+    border: 0.5px solid #000000;
+  border-radius: 4px;
+}
+#subj{
+  border: 0.5px solid #4C4E73;
+box-sizing: border-box;
+border-radius: 23px;
+}
+.second{
+  background-image: url("../assest/Discover_Lifelong1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.clang{
+  background-image: url("../assest/Rectangle_20.png");
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  border-radius: 13px;
+}
+
+.timer{
+  background: linear-gradient(102.21deg, #FFAE0F 3.69%, #FD2CF5 102.03%);
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.14);
+ border-radius: 10px;
+ 
+}
+.time{
+  background-image: url("../assest/Story_Time.png");
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+.html{
+  background-image: url("../assest/Rectangle_24.png");
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  border-radius: 13px;
+}
+.javalang{
+  background-image: url("../assest/javalang.png");
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  border-radius: 13px;
+}
+.web{
+  background-image: url("../assest/web.png");
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  border-radius: 13px;
+}
+
+.third{
+  background-image: url("../assest/image2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+ol.circle{
+  list-style-type: circle;
+}
+.fourth{
+  background-image: url("../assest/college_college_c.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.course1{
+  background-image: url("../assest/corses4.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 2px;
+}
+
+.course2{
+  background-image: url("../assest/courses5.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 2px;
+}
+
+.course3{
+  background-image: url("../assest/EDTCH9_M-image16.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 2px;
+}
+
+.course4{
+  background-image: url("../assest/Rectangle_3.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 2px;
+}
+
+.course5{
+  background-image: url("../assest/Rectangle_2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 2px;
+}
+.fig1{
+  background-image: url("../assest/Group62.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.fig2{
+  background-image: url("../assest/Group61.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.fig3{
+  background-image: url("../assest/Group64.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.fig4{
+  background-image: url("../assest/Group63.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.footer{
+  background-image: url("../assest/footer.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.footer1{
+  background-image: url("../assest/footer1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+@media(max-width: 700){
+  .nav {
+    position: absolute;
+    background: #FFAE0F;
+    height: auto;
+    width: 200px;
+    top: 0;
+    left: 200px;
+    text-align: left;
+    z-index: 2;
+    display: block;
+    color: #FD2CF5;
+  }
+
+}
