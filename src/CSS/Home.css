@@ -1,6 +1,6 @@
 .home{
   background-image: url("../assest/bg.jpeg");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 .name{
