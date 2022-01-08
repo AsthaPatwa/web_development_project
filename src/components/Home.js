@@ -79,8 +79,8 @@ const Home = () => {
           position: "absolute",
           display: isMobile ? "block" : "none",
           width: "414px",
-          height: "258px",
-          marginTop: "2487px",
+          height: "266px",
+          marginTop: "2552px",
         }}
       />
     </div>
